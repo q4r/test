@@ -1,3 +1,5 @@
 test
 ====
-new line
+edited line
+
+last new line
